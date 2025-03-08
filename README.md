@@ -19,3 +19,4 @@ deliverables: "1 HTML file, 1 CSS file"
 ## Hand in
 
 Drop this folder into your Markbot application. Make sure to fix all the errors. And submit for grades using Markbot!!
+Try to fix the all the errors in this file
